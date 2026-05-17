@@ -1,34 +1,49 @@
-<h1 align="center">Olá, eu sou Rychard 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>💻 Desenvolvedor Backend em evolução</strong>
-</p>
+# 👋 Olá, eu sou Rychard
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Backend+em+evolu%C3%A7%C3%A3o;Arquitetura+de+Sistemas;Criando+softwares+do+zero" />
+
+</div>
 
 ---
 
-### 🚀 Sobre mim
+<div style="
+  background: linear-gradient(135deg, #0d1117, #161b22);
+  border: 1px solid #30363d;
+  border-radius: 16px;
+  padding: 25px;
+  margin-top: 20px;
+">
+
+<h2 style="color:#58A6FF;">💻 Sobre mim</h2>
+
+<p style="color:#c9d1d9; font-size:16px; line-height:1.7;">
+Tenho foco em desenvolvimento backend, arquitetura de sistemas e criação de softwares completos do zero.
+Atualmente estudo tecnologias modernas para construir aplicações robustas e escaláveis.
+</p>
+
+</div>
+
+<br>
+
+<div style="display:flex; gap:20px; flex-wrap:wrap;">
+
+<div style="
+  flex:1;
+  min-width:260px;
+  background:#161b22;
+  border-radius:16px;
+  padding:20px;
+  border:1px solid #30363d;
+">
+
+<h3 style="color:#58A6FF;">🚀 Estudando</h3>
 
 ```js
-const rychard = {
-  foco: [
-    "Desenvolvimento Backend",
-    "Arquitetura de Sistemas",
-    "Criação de softwares do zero"
-  ],
-
-  estudando: [
-    "JavaScript",
-    "Node.js",
-    "React",
-    "Java"
-  ],
-
-  interesses: [
-    "APIs REST",
-    "Banco de Dados",
-    "Segurança da Informação",
-    "Automação Industrial"
-  ],
-
-  objetivo: "Construir softwares reais e atuar internacionalmente com tecnologia"
-};
+[
+  "JavaScript",
+  "Node.js",
+  "React",
+  "Java"
+]
