@@ -37,7 +37,6 @@ Atualmente estudo tecnologias modernas para construir aplicações robustas e es
   padding:20px;
   border:1px solid #30363d;
 ">
-
 <h3 style="color:#58A6FF;">🚀 Conhecimentos:</h3>
 <h4>Javascript</h4>
 <h4>ExpressJS</h4>
