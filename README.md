@@ -38,12 +38,8 @@ Atualmente estudo tecnologias modernas para construir aplicações robustas e es
   border:1px solid #30363d;
 ">
 
-<h3 style="color:#58A6FF;">🚀 Estudando</h3>
-
-```js
-[
-  "JavaScript",
-  "Node.js",
-  "React",
-  "Java"
-]
+<h3 style="color:#58A6FF;">🚀 Conhecimentos:</h3>
+<h4>Javascript</h4>
+<h4>ExpressJS</h4>
+<h4>SQL</h4>
+<h4>Restful API</h4>
